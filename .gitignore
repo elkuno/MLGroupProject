@@ -1,6 +1,8 @@
 # Things added by hand:
 # Virtual Environment directory
 mlenv/
+upgraded/
+CSV/pre-processed/
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
