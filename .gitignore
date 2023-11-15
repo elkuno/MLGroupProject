@@ -3,6 +3,8 @@
 mlenv/
 upgraded/
 CSV/pre-processed/
+models/
+model_checkpoints/
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
